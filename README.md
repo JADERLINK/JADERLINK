@@ -7,7 +7,7 @@ Github:
 https://github.com/JADERLINK
  
 Youtube:
-https://www.youtube.com/channel/UCBDueM1UuDh4QaTW9rAq3Fw
+https://www.youtube.com/@JADERLINK
 
 Contato: 
 jaderlinkproject@gmail.com
