@@ -1,5 +1,8 @@
 Português-Brasil:
 
+Donate:
+[https://jaderlink.github.io/Donate/](https://jaderlink.github.io/Donate/)
+
 GitHub.io:
 [https://jaderlink.github.io/](https://jaderlink.github.io/)
 
