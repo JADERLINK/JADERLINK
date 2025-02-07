@@ -1,4 +1,4 @@
-Português-Brasil:
+**I'm Brazilian, I speak Portuguese.**
 
 Donate:
 [https://jaderlink.github.io/Donate/](https://jaderlink.github.io/Donate/)
@@ -12,6 +12,9 @@ Blog:
 Github:
 [https://github.com/JADERLINK](https://github.com/JADERLINK)
  
+Gist:
+[https://gist.github.com/JADERLINK](https://gist.github.com/JADERLINK)
+
 Youtube:
 [https://www.youtube.com/@JADERLINK](https://www.youtube.com/@JADERLINK)
 
